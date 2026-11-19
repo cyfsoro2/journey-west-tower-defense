@@ -6,5 +6,6 @@
 
 - [游戏方案](docs/game-design.md)
 - [第一周开发计划与 Bot 分工](docs/sprint-1.md)
+- [原型架构与三个 Bot 的开工任务](docs/architecture-and-bot-tasks.md)
 
 原型计划使用 HTML5 Canvas 和原生 JavaScript，使用简单几何图形占位，通过浏览器运行。后续扩展更多角色、法宝和关卡，取决于原型试玩反馈。
